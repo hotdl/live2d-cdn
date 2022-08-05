@@ -71,6 +71,7 @@
 	height: 300px;
 	position: relative;
 	width: 300px;
+	opacity: 70%;
 }
 
 #live2d:active {
